@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RSCSK2243R3D02008U"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-07-12-08:44:25)
+    (mountForm default
+        (footprintRef "RSCSK2243R3D02008U")
+        (spec "System")
+    )
+)

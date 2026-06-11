@@ -1,0 +1,9 @@
+Manufacturer=Elna
+PartNumber=RSCSK2243R3D02008U
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=2
+Version=1.3
+Released=2024-07-12 08:44:25
+Downloaded=2026-06-05 15:18:28
+3D=Y

@@ -1,0 +1,199 @@
+(footprint "CAP-TH_BD10.0-P5.00-D0.6-FD-A"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(uuid "750b7cdf-b30f-4491-965a-698ef0e74b84")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CAP-TH_BD10.0-P5.00-D0.6-FD-A"
+		(at 0 4 0)
+		(layer "F.Fab")
+		(uuid "379b1c30-0605-49de-8b0c-d5124f3802d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c11bea2-379a-452f-9b0f-8d37b787bae0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60c88808-e426-44cf-9166-133f40459d7e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "LCSC Part" "C5455536"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e73fbee2-5454-49ed-a1a2-35586dc38f2d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.57 0)
+		(end -3.56 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fdddabe6-a172-4868-9c74-fe1674710aee")
+	)
+	(fp_line
+		(start -4.06 -0.76)
+		(end -4.06 0.76)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "82dc5cc2-bd7e-4a0b-9f26-3673c450fba5")
+	)
+	(fp_circle
+		(center -5 5)
+		(end -4.97 5)
+		(stroke
+			(width 0.06)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6917b445-9f24-4f26-8538-6d9268d01d3a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 5 0)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "c6def44c-66af-4764-a37a-6222b26c1808")
+	)
+	(fp_poly
+		(pts
+			(xy 3.555873 -3.556) (xy 3.555873 3.556) (xy 4.317873 2.54) (xy 4.825873 1.016) (xy 5.079873 -0.508)
+			(xy 4.825873 -1.524) (xy 3.555873 -3.556)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "94831112-aabe-4d74-9f02-50299367041d")
+	)
+	(fp_line
+		(start -5 0)
+		(end 5 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "995bd13e-dd04-4de7-a493-ad91947636e1")
+	)
+	(fp_line
+		(start 5 0)
+		(end -5 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b8840cc9-fb18-4671-8b10-bf5efad9848a")
+	)
+	(fp_circle
+		(center -2.5 0)
+		(end -2.35 0)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "3c0e96b4-10ec-46d4-b815-011a54375407")
+	)
+	(fp_circle
+		(center 2.5 0)
+		(end 2.65 0)
+		(stroke
+			(width 0.3)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "d3985d29-a93a-4688-98d5-c0a3b823ee12")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "80a61ddd-38f8-4fbb-831b-a61c9c065fa0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.5 0)
+		(size 1.6 1.6)
+		(drill 0.999998)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1cd8224d-3b74-42d4-b3bc-84bf9be90c41")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 1.6 1.6)
+		(drill 0.999998)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6ae96ee3-4f88-4609-b589-fbdf5fd363ff")
+	)
+	(embedded_fonts no)
+	(model "/Users/swedyn/GPS-MODULE-DEV/libs/easyeda2kicad.3dshapes/CAP-TH_BD10.0-P5.00-D0.6-FD-A.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

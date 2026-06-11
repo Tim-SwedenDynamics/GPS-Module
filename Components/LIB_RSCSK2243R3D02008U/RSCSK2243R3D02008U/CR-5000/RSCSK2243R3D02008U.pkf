@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RSCSK2243R3D02008U"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RSCSK2243R3D02008U")
+        (spec "default")
+    )
+)

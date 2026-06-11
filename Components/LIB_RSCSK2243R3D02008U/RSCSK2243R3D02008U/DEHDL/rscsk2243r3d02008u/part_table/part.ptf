@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RSCSK2243R3D02008U'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Elna", "RSCSK2243R3D02008U" (!) = "", "RSCSK2243R3D02008U", "Other", "555-DSK3R3H224U-HL", "https://www.mouser.co.uk/ProductDetail/Elna/RSCSK2243R3D02008U?qs=4ASt3YYao0VaMSApaTZjpQ%3D%3D", "", "", "220 mF (EDLC) Supercapacitor 3.3 V Coin, Wide Terminals - Opposite Sides 200Ohm 1000 Hrs @ 60C", "https://www1.futureelectronics.com/doc/ELNA/RSCSK2243R3D02008U.pdf", "3 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RSCSK2243R3D02008U
+D 220 mF (EDLC) Supercapacitor 3.3 V Coin, Wide Terminals - Opposite Sides 200Ohm 1000 Hrs @ 60C
+K
+F https://www1.futureelectronics.com/doc/ELNA/RSCSK2243R3D02008U.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+.RSCSK2243R3D02008U :1 ;220 mF (EDLC) Supercapacitor 3.3 V Coin, Wide Terminals - Opposite Sides 200Ohm 1000 Hrs @ 60C
+RSCSK2243R3D02008U
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN RSCSK2243R3D02008U
+~!Manufacturer_Name (Elna)
+~!Manufacturer_Part_Number (RSCSK2243R3D02008U)
+~!Mouser Part Number (555-DSK3R3H224U-HL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Elna/RSCSK2243R3D02008U?qs=4ASt3YYao0VaMSApaTZjpQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www1.futureelectronics.com/doc/ELNA/RSCSK2243R3D02008U.pdf)
+~!Height (3mm)
+~!3D_Model (RSCSK2243R3D02008U)
+RSCSK2243R3D02008U
+1.1!U 2.1!U 
