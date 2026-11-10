@@ -1075,7 +1075,7 @@
 			(uuid "6a73018c-cada-455f-adeb-5734bc443331")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/RF_GPS.3dshapes/ublox_SAM-M8Q.step"
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SAM-M10Q-00B.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1083,11 +1083,11 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "magnetometer:IIS2MDCTR"
+	(footprint "SwedenDynamics:IIS2MDCTR_v2"
 		(layer "B.Cu")
 		(uuid "0bf8659d-c9b7-4ea1-9b20-6491114ef640")
 		(at 103.05 97.175 90)
@@ -1495,6 +1495,17 @@
 			(uuid "0aa6bff1-41b2-4649-bb60-f4f9a92c17ab")
 		)
 		(embedded_fonts no)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IIS2MDCTR.stp"
+			(offset
+				(xyz 0 -0 0.7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "B.Cu")
@@ -2157,7 +2168,7 @@
 			)
 		)
 	)
-	(footprint "3v3reg:SON95P300X300X100-7N-D"
+	(footprint "SwedenDynamics:SON95P300X300X100-7N-D"
 		(layer "B.Cu")
 		(uuid "2ba2e171-e9f1-4be6-b33b-397518939c78")
 		(at 107.275 102.725 -90)
@@ -2424,6 +2435,17 @@
 			(uuid "bbdf1bfb-5c09-447a-8846-a2db3d224824")
 		)
 		(embedded_fonts no)
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LD39200PU33R.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "B.Cu")
@@ -4540,7 +4562,7 @@
 			(uuid "e3e017e2-e307-4d32-b29d-0f3c70184b7b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0402_1005Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4882,7 +4904,7 @@
 			)
 		)
 	)
-	(footprint "battery:RSCSK2243R3D02008U"
+	(footprint "SwedenDynamics:RSCSK2243R3D02008U"
 		(layer "B.Cu")
 		(uuid "ccb6adcb-ea6d-4ce0-8f1e-576a5df2d765")
 		(at 99.725 100.925 -90)
@@ -5092,15 +5114,15 @@
 			(uuid "23de41e3-29b4-47f8-8b70-069c5012ed52")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Components/LIB_RSCSK2243R3D02008U/RSCSK2243R3D02008U/3D/RSCSK2243R3D02008U.stp"
+		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/RSCSK2243R3D02008U.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 -0.175 3)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz 90 0 0)
 			)
 		)
 	)
@@ -5284,7 +5306,7 @@
 			(uuid "2c870101-dd72-4bbe-9d3c-23a3dcac54db")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0402_1005Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0402_1005Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)

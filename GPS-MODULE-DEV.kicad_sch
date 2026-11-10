@@ -5,7 +5,7 @@
 	(uuid "91f4a330-d279-46ec-933c-384a4d449888")
 	(paper "A4")
 	(lib_symbols
-		(symbol "3v3reg:LD39200PU33R"
+		(symbol "SwedenDynamics:LD39200PU33R_v2"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -185,7 +185,7 @@
 					)
 				)
 			)
-			(symbol "LD39200PU33R_1_0"
+			(symbol "LD39200PU33R_v2_1_0"
 				(rectangle
 					(start 30.48 2.54)
 					(end 5.08 -15.24)
@@ -2125,7 +2125,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "magnetometer:IIS2MDCTR"
+		(symbol "SwedenDynamics:IIS2MDCTR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3876,7 +3876,7 @@
 		)
 	)
 	(symbol
-		(lib_id "magnetometer:IIS2MDCTR")
+		(lib_id "SwedenDynamics:IIS2MDCTR")
 		(at 203.2 53.34 0)
 		(unit 1)
 		(body_style 1)
@@ -3907,7 +3907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "magnetometer:IIS2MDCTR"
+		(property "Footprint" "SwedenDynamics:IIS2MDCTR_v2"
 			(at 242.57 148.26 0)
 			(hide yes)
 			(show_name no)
@@ -5086,7 +5086,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "battery:RSCSK2243R3D02008U"
+		(property "Footprint" "SwedenDynamics:RSCSK2243R3D02008U"
 			(at 195.58 144.526 90)
 			(hide yes)
 			(show_name no)
@@ -6053,7 +6053,7 @@
 		)
 	)
 	(symbol
-		(lib_id "3v3reg:LD39200PU33R")
+		(lib_id "SwedenDynamics:LD39200PU33R_v2")
 		(at 167.64 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -6084,7 +6084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "3v3reg:SON95P300X300X100-7N-D"
+		(property "Footprint" "SwedenDynamics:SON95P300X300X100-7N-D"
 			(at 167.64 91.44 0)
 			(hide yes)
 			(show_name no)
