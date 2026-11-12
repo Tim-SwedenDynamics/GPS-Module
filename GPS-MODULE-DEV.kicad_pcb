@@ -1075,7 +1075,7 @@
 			(uuid "6a73018c-cada-455f-adeb-5734bc443331")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SAM-M10Q-00B.STEP"
+		(model "${SWEDEN_DYNAMICS_LIB}/SwedenDynamics.3dshapes/SAM-M10Q-00B.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1495,7 +1495,7 @@
 			(uuid "0aa6bff1-41b2-4649-bb60-f4f9a92c17ab")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/IIS2MDCTR.stp"
+		(model "${SWEDEN_DYNAMICS_LIB}/SwedenDynamics.3dshapes/IIS2MDCTR.stp"
 			(offset
 				(xyz 0 -0 0.7)
 			)
@@ -2360,6 +2360,7 @@
 			)
 		)
 		(duplicate_pad_numbers_are_jumpers no)
+		(attr smd)
 		(fp_circle
 			(center -1.9 1.65)
 			(end -1.9 1.775)
@@ -2435,7 +2436,7 @@
 			(uuid "bbdf1bfb-5c09-447a-8846-a2db3d224824")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/LD39200PU33R.stp"
+		(model "${SWEDEN_DYNAMICS_LIB}/SwedenDynamics.3dshapes/LD39200PU33R.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5011,6 +5012,7 @@
 			)
 		)
 		(duplicate_pad_numbers_are_jumpers no)
+		(attr smd)
 		(fp_line
 			(start 0 6.7)
 			(end 0 6.7)
@@ -5114,7 +5116,7 @@
 			(uuid "23de41e3-29b4-47f8-8b70-069c5012ed52")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/RSCSK2243R3D02008U.stp"
+		(model "${SWEDEN_DYNAMICS_LIB}/SwedenDynamics.3dshapes/RSCSK2243R3D02008U.stp"
 			(offset
 				(xyz 0 -0.175 3)
 			)
